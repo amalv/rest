@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Oct 2014 14:31:50 GMT
+Server: Apache/2.4.6 (Ubuntu)
+X-Powered-By: PHP/5.5.3-1ubuntu2.6
+Cache-Control: no-cache
+X-Debug-Token: 434b6e
+X-Debug-Token-Link: /app_dev.php/_profiler/434b6e
+Transfer-Encoding: chunked
+Content-Type: application/json
+
+{"users":[{"id":1,"username":"alice","password":"fooalicepassword","email":"alice@screenfony.com"},{"id":2,"username":"bob","password":"foobobpassword","email":"bob@screenfony.com"}]}
